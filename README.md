@@ -1,2 +1,2 @@
-# SergioBurlakaCV.github.io 
+# SergioBurlaka.github.io 
 My first web CV
