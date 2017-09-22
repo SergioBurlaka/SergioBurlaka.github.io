@@ -121,7 +121,7 @@ h2,h3{
 }
 
 .experienceTextWrapper{
-    padding-top: 2px;
+    padding-top: 11px;
     padding-bottom: 17px;
 
     overflow:hidden;
@@ -305,11 +305,11 @@ h3{
 .progress{
     background-color: #4783c2;
     height: 2px;
-    overflow: visible;
+    /*overflow: visible;*/
 
     position: relative;
-    display: block;
-    width: 100%;
+    /*display: block;*/
+    /*width: 100%;*/
     /*border-radius: 2px;*/
     margin: 11px 0 20px 0;
 }
@@ -319,11 +319,12 @@ h3{
     position: absolute;
     top: 0;
     bottom: 0;
+    z-index: 2;
 }
 
 .profSkills h3{
     margin-top: 13px;
-    margin-bottom: 18px;
+    margin-bottom: 12px;
     font-size: 19px;
 }
 
@@ -412,4 +413,63 @@ h3{
     .downloadButton{
         background-color: #eae8e7;
     }
+}
+
+
+
+
+
+.progress .fa-minus{
+    font-size: 18px;
+    /*position: relative;*/
+    transform:  scale(0.1, 3);
+    color: #4783c2;
+    margin-top: -5px;
+    display: inline-block;
+    float: left;
+
+}
+
+
+.progress .width-20{
+    margin-right: 76%;
+}
+
+.progress .width-40{
+    margin-right: 56%;
+}
+
+.progress .width-60{
+    margin-right: 36%;
+}
+
+.progress .width-80{
+    margin-right: 16%;
+}
+
+.progress .width-100{
+    margin-right: -4%;
+}
+
+.scale-numbers{
+    margin-left: 26px;
+}
+
+.template .scale-description{
+    display: block;
+    margin: auto;
+}
+
+.template{
+    margin-bottom: 20px;
+}
+
+.wrap-number{
+    position: relative;
+}
+
+.bold{
+    font-weight: 600;
+    color: #767270;
+
 }
