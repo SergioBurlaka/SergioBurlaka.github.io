@@ -177,7 +177,6 @@ ul {
 
 .userIcon {
   display: inline-block;
-  float: left;
   font-size: 24px;
 }
 
@@ -187,7 +186,6 @@ ul {
 
 .personalInfo {
   display: inline-block;
-  float: left;
   overflow: hidden;
   padding-bottom: 21px;
   padding-right: 25px;
@@ -200,8 +198,21 @@ ul {
   display: flex;
 }
 
+.mt {
+  padding-top: 21px;
+}
+
+.border-none {
+  border: none;
+}
 .leftColnnmWrap span {
   color: #b4d5ed;
+}
+
+.box {
+  padding-bottom: 21px;
+  border-bottom: solid 1px #4783c2;
+  /* width: 100%; */
 }
 
 .phone p {
@@ -398,7 +409,6 @@ ul {
   color: #4783c2;
   margin-top: -5px;
   display: inline-block;
-  float: left;
 }
 
 .progress .width-20 {
@@ -419,10 +429,6 @@ ul {
 
 .progress .width-100 {
   margin-right: -3%;
-}
-
-.scale-numbers {
-  /* margin-left: 26px; */
 }
 
 .template .scale-description {
