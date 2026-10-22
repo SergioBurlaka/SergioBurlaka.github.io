@@ -1,13 +1,13 @@
 # Serhii Burlaka
 
-**Senior Frontend Engineer · React / TypeScript · Node.js**
+**Senior Frontend Engineer · React / TypeScript · Production Node.js experience**
 
 Lviv, Ukraine · Open to remote · +380 96 179-33-26 · burlaka01@gmail.com
 [LinkedIn](https://www.linkedin.com/in/sergio-burlaka-9a76a911a) · [GitHub](https://github.com/SergioBurlaka)
 
 ## Summary
 
-Frontend engineer with 8+ years of commercial experience building data-heavy dashboards and business web applications with React and TypeScript. Commercial backend experience with Node.js, Express and MongoDB; recently designed, built and deployed a full-stack app (Node.js, Fastify, PostgreSQL, Docker, CI/CD). Uses AI coding tools (Claude Code) daily in the development workflow.
+Senior Frontend Engineer with 8+ years of commercial experience building data-heavy dashboards, admin panels and business web applications with React and TypeScript. Started frontends from scratch and set up their architecture: routing, authentication, role-based access control, theming and end-to-end tests. Production backend experience with Node.js, Express and MongoDB; recently designed, built and deployed a full-stack app with Node.js, Fastify, PostgreSQL, Docker and CI/CD. Uses AI coding tools (Claude Code) daily in the development workflow.
 
 ## Experience
 
@@ -101,4 +101,4 @@ Faculty of Physics and Engineering; qualification: engineer-physicist (computer 
 ## Languages
 
 - Ukrainian — native
-- English — Intermediate
+- English — Intermediate+ (B1+)

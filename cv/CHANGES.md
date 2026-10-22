@@ -26,9 +26,16 @@
 - Brightgrove Nov 2022: перший коміт у `seo-management-tool` 2022-11-23, підтверджено користувачем.
 - PHP/Symfony-роботу в бекенді Delikeys (вересень 2026) свідомо не включено: резюме лишається фронтенд-орієнтованим.
 
+## Оновлення 2026-10-22 (за дослідженням ринку зарплат і вакансій)
+
+- Заголовок: "Senior Frontend Engineer · React / TypeScript · Production Node.js experience". Позиціонування як Senior Frontend з production-досвідом Node.js, а не як повноцінний fullstack: так CV проходить і на frontend-, і на frontend-heavy fullstack-вакансії.
+- Summary: перше слово тепер "Senior Frontend Engineer"; додано, що фронтенди починав з нуля й закладав архітектуру (routing, auth, RBAC, theming, e2e). Факти з Maya B і Shark Software. "Commercial backend experience" → "Production backend experience".
+- `<title>` сторінки: додано "(React / TypeScript, Node.js)".
+- Англійська: "Intermediate" → "Intermediate+ (B1+)", тимчасово, до результату тесту.
+
 ## Що лишилось `[TODO]`
 
-Нічого.
+- **Рівень англійської**: після тесту замінити "Intermediate+ (B1+)" на точний результат (наприклад, "Upper-Intermediate (B2), EF SET 6x/100"). Якщо тест покаже B2, варто додати назву тесту й бал: це перевірюваний факт.
 
 ## Варто додати, якщо є факти
 
