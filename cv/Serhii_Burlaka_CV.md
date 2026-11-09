@@ -3,7 +3,7 @@
 **Senior Frontend Engineer · React / TypeScript · Production Node.js experience**
 
 Lviv, Ukraine · Open to remote · +380 96 179-33-26 · burlaka01@gmail.com
-[LinkedIn](https://www.linkedin.com/in/sergii-burlaka-9a76a911a/) · [GitHub](https://github.com/SergioBurlaka)
+[LinkedIn](https://www.linkedin.com/in/serhii-burlaka-9a76a911a/) · [GitHub](https://github.com/SergioBurlaka)
 
 ## Summary
 
