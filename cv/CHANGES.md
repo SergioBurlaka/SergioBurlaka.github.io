@@ -38,6 +38,7 @@
 - Англійська: "Intermediate+ (B1+)" → "Upper-Intermediate (B2)" (за словами користувача).
 - Посада в TechStack: "Junior JavaScript Developer" → "JavaScript Developer" (правка користувача в `index.html`).
 - Посилання на MyGym: http://91.232.30.91 → https://my-gym-com.duckdns.org/login.
+- LinkedIn: виправлено непрацююче посилання `sergio-burlaka-9a76a911a` → `sergii-burlaka-9a76a911a`.
 
 ## Що лишилось `[TODO]`
 
