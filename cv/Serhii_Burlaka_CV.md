@@ -11,7 +11,7 @@ Senior Frontend Engineer with 8+ years of commercial experience building data-he
 
 ## Experience
 
-### Frontend Developer — Maya B
+### React Developer — Maya B
 *Mar 2024 – Present · Project: Delikeys*
 
 - Built from scratch the new frontend of Delikeys 2.0, an internal logistics platform for processing parcels, orders and carriers, used in operations in Florida, USA; primary frontend developer on the project.
