@@ -38,8 +38,8 @@ Decisions already made by the user:
 - Name is spelled "Serhii".
 - No War Thunder / 3D artist entry.
 - No PHP/Symfony backend work (the CV stays frontend-oriented).
-- English level "Intermediate", remote format.
-- The MyGym link uses the bare IP until there is a domain.
+- English level "Upper-Intermediate (B2)", remote format.
+- The MyGym link is https://my-gym-com.duckdns.org/login.
 
 ## Sources of facts (sibling repos in `C:\Users\Envy17\Project\`)
 

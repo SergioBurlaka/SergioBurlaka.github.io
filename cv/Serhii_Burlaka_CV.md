@@ -59,7 +59,7 @@ Senior Frontend Engineer with 8+ years of commercial experience building data-he
 
 **Stack:** React, Redux
 
-### Junior JavaScript Developer — TechStack
+### JavaScript Developer — TechStack
 *Jan 2018 – Apr 2019*
 
 - Developed backend features with Node.js, Express and MongoDB for an application serving restaurants and resorts (over one year of commercial work).
@@ -72,7 +72,7 @@ Senior Frontend Engineer with 8+ years of commercial experience building data-he
 ## Projects
 
 ### MyGym — full-stack workout tracker
-[Live](http://91.232.30.91) · [GitHub](https://github.com/SergioBurlaka/MyGym)
+[Live](https://my-gym-com.duckdns.org/login) · [GitHub](https://github.com/SergioBurlaka/MyGym)
 
 Node.js, Fastify, TypeScript, PostgreSQL, Drizzle ORM, React, TanStack Query, Tailwind CSS, Docker, GitHub Actions
 
@@ -101,4 +101,4 @@ Faculty of Physics and Engineering; qualification: engineer-physicist (computer 
 ## Languages
 
 - Ukrainian — native
-- English — Intermediate+ (B1+)
+- English — Upper-Intermediate (B2)

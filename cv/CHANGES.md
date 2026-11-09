@@ -33,9 +33,15 @@
 - `<title>` сторінки: додано "(React / TypeScript, Node.js)".
 - Англійська: "Intermediate" → "Intermediate+ (B1+)", тимчасово, до результату тесту.
 
+## Оновлення 2026-11-09
+
+- Англійська: "Intermediate+ (B1+)" → "Upper-Intermediate (B2)" (за словами користувача).
+- Посада в TechStack: "Junior JavaScript Developer" → "JavaScript Developer" (правка користувача в `index.html`).
+- Посилання на MyGym: http://91.232.30.91 → https://my-gym-com.duckdns.org/login.
+
 ## Що лишилось `[TODO]`
 
-- **Рівень англійської**: після тесту замінити "Intermediate+ (B1+)" на точний результат (наприклад, "Upper-Intermediate (B2), EF SET 6x/100"). Якщо тест покаже B2, варто додати назву тесту й бал: це перевірюваний факт.
+- **Рівень англійської**: якщо є сертифікат/тест (наприклад, EF SET), варто додати його назву й бал до "Upper-Intermediate (B2)": це перевірюваний факт.
 
 ## Варто додати, якщо є факти
 
